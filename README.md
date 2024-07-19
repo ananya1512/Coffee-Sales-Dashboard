@@ -2,8 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/ecbf26d6-f83d-404a-9092-09e135eb8f32)
 
-> Executive Summary
-This coffee sales dashboard provides a comprehensive view of sales performance across the US, UK, and Ireland over the past 3 years. Interactive charts allow for exploration of trends by country, coffee type, purchase size, and customer loyalty. While Ireland boasts the highest average order value, the US generates the most sales volume. The UK offers an opportunity for improvement, with declining sales and weak customer loyalty compared to other regions.
+> **Executive Summary**
+* This coffee sales dashboard provides a comprehensive view of sales performance across the US, UK, and Ireland over the past 3 years. Interactive charts allow for exploration of trends by country, coffee type, purchase size, and customer loyalty. While Ireland boasts the highest average order value, the US generates the most sales volume. The UK offers an opportunity for improvement, with declining sales and weak customer loyalty compared to other regions.
 
 > Key Insights
 

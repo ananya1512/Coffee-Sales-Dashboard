@@ -1,6 +1,7 @@
 # Coffee-Sales-Dashboard
 
-![image](https://github.com/user-attachments/assets/3e569ce7-dea4-403e-b403-6d5dd097aa3d)
+![image](https://github.com/user-attachments/assets/ecbf26d6-f83d-404a-9092-09e135eb8f32)
+
 
 This Excel dashboard provides a dynamic view of coffee sales performance across the United States, United Kingdom, and Ireland. By leveraging interactive elements like slicers and a timeline, users can explore sales and profit trends over time, analyze performance by country, coffee type, and purchase size, and identify key metrics like order volume and average order value.
 
